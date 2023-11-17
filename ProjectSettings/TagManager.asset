@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Pistol
+  - Gun
+  - pistolAmmo
+  - arAmmo
+  - avatar
+  - Zombie
+  - ZombieChild
+  - landmine
+  - freezemine
+  - sniperAmmo
+  - trapBox
   layers:
   - Default
   - TransparentFX
